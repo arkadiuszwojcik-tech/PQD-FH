@@ -1,2 +1,72 @@
 # PQD-FH
-Progressive Quality Documentation &amp; Final Handover Framework — procedures and editable appendices.
+
+**Progressive Quality Documentation & Final Handover Framework**
+
+PQD-FH provides a structured approach to compiling, verifying and handing over project quality documentation progressively throughout project execution.
+
+The framework connects quality records, red-line mark-ups, system completion and commissioning records with final handover. Its purpose is to support traceability, make documentation readiness visible and reduce the accumulation of unresolved documentation issues at the end of a project.
+
+## Framework modules
+
+| Module | Scope | Repository status |
+| --- | --- | --- |
+| **PQD-FH 01 — Final Quality Dossier (FQD)** | Package planning, progressive compilation, traceability, readiness review and submission of quality dossiers | Companion workbook and fillable PDF forms available; first formal release pending |
+| **PQD-FH 02 — Red Line Mark-Up (RLM)** | Recording and controlling changes to technical documentation | Planned framework module; files not yet available here |
+| **PQD-FH 03 — System Completion & Commissioning Records** | Documentation supporting system completion and commissioning | Planned framework module; files not yet available here |
+| **PQD-FH 04 — Final Handover** | Consolidation and transfer of final project documentation | Planned framework module; files not yet available here |
+
+The currently available repository content supports **PQD-FH 01 — FQD**.
+
+## Repository structure
+
+| Location | Contents |
+| --- | --- |
+| [`README.md`](README.md) | Framework overview, module status, downloads and versioning guidance |
+| [`01-FQD/`](01-FQD/) | Available content supporting the FQD module |
+| [`01-FQD/Appendices/`](01-FQD/Appendices/) | Companion Excel workbook and appendix documentation |
+| [`01-FQD/Appendices/README.md`](01-FQD/Appendices/README.md) | File inventory, revision compatibility and fixed snapshot reference |
+| [`01-FQD/Appendices/Fillable-PDF/`](01-FQD/Appendices/Fillable-PDF/) | Separate fillable PDF forms for Appendices A, D.1 and G |
+| [`01-FQD/Appendices/Fillable-PDF/README.md`](01-FQD/Appendices/Fillable-PDF/README.md) | Information accompanying the fillable PDF forms |
+
+## PQD-FH 01 — FQD: current status
+
+The companion Excel workbook and three separate fillable PDF forms are available at **Template Rev. 1.00**, corresponding to **Procedure Rev. 1.00**.
+
+The first formal release is planned under the tag **`FQD-v1.0`** and has not yet been published. The main FQD procedure document is not currently included in the repository.
+
+The presence of Rev. 1.00 template files on `main` does not by itself constitute a formal FQD release.
+
+## Available files and downloads
+
+| Resource | Contents | Template revision | Download |
+| --- | --- | --- | --- |
+| **Companion workbook** | Editable templates for Appendices A–I | 1.00 | [Download XLSX](https://github.com/arkadiuszwojcik-tech/PQD-FH/raw/refs/heads/main/01-FQD/Appendices/PQD-FH_01_Universal_FQD_Templates.xlsx) |
+| **Appendix A** | Project-specific Requirements | 1.00 | [Download fillable PDF](https://github.com/arkadiuszwojcik-tech/PQD-FH/raw/refs/heads/main/01-FQD/Appendices/Fillable-PDF/PQD-FH_01_Appendix_A_Project_Requirements_Fillable_Rev1.00.pdf) |
+| **Appendix D.1** | Universal FQD Package Index | 1.00 | [Download fillable PDF](https://github.com/arkadiuszwojcik-tech/PQD-FH/raw/refs/heads/main/01-FQD/Appendices/Fillable-PDF/PQD-FH_01_Appendix_D1_Package_Index_Fillable_Rev1.00.pdf) |
+| **Appendix G** | FQD Package Readiness Checklist | 1.00 | [Download fillable PDF](https://github.com/arkadiuszwojcik-tech/PQD-FH/raw/refs/heads/main/01-FQD/Appendices/Fillable-PDF/PQD-FH_01_Appendix_G_Readiness_Checklist_Fillable_Rev1.00.pdf) |
+
+The workbook filename is `PQD-FH_01_Universal_FQD_Templates.xlsx`.
+
+Appendices A, D.1 and G are also provided as separate PDF forms with interactive fields for electronic completion. These forms complement the companion workbook.
+
+Download the PDFs and open them in a reader that supports interactive form fields. Save completed templates and forms as separate controlled project records.
+
+For the detailed file inventory, see the [FQD Appendices README](01-FQD/Appendices/README.md).
+
+## Versioning and revision compatibility
+
+- **Document revisions** identify the revision of each procedure, workbook or form. The currently available templates are Rev. 1.00 and correspond to Procedure Rev. 1.00.
+- **Release tags** identify a coordinated set of files. The planned first FQD release tag is `FQD-v1.0`.
+- **Release notes** will identify the files and revisions included in each published release. Check compatibility before combining a procedure with its templates.
+- **The `main` branch may change between releases.** The download links above point to the files currently on `main`.
+- **A fixed commit snapshot preserves the referenced revision.** The existing Rev. 1.00 template files are available at commit `ab764c1d03929abb3c4e38e78b73ac03bcc35565`. This snapshot is not a published FQD release.
+
+[Browse the fixed Rev. 1.00 template snapshot](https://github.com/arkadiuszwojcik-tech/PQD-FH/tree/ab764c1d03929abb3c4e38e78b73ac03bcc35565/01-FQD/Appendices)
+
+When adopting the templates for a project, record the applicable procedure revision, template revision and release tag or commit reference to maintain traceability.
+
+## Releases
+
+Formal releases and their accompanying notes will be available on the [Releases page](https://github.com/arkadiuszwojcik-tech/PQD-FH/releases).
+
+Once `FQD-v1.0` is published, use that release to obtain the corresponding revision-controlled set of files.
