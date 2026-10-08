@@ -12,6 +12,6 @@ Appendices A, D.1 and G are available as separate PDF forms with interactive fie
 
 Download a form and open it in a PDF reader that supports interactive form fields. Save the completed form as a separate controlled project record. Adapt the blank templates to applicable project requirements and approval arrangements before use.
 
-Files on `main` may change. See [revision compatibility and the fixed Rev. 1.00 template snapshot](../README.md#downloads-and-revision-compatibility). The formal `FQD-v1.0` release is planned for 06-Oct-2026 and has not yet been published.
+Files on `main` may change. See [revision compatibility and the fixed Rev. 1.00 template snapshot](../README.md#downloads-and-revision-compatibility). The formal `FQD-v1.0` release is planned for 13-Oct-2026 and has not yet been published.
 
 [All editable appendices and Excel workbook](../README.md)
