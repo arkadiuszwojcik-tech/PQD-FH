@@ -2,7 +2,7 @@
 
 Editable appendices supporting PQD-FH 01: Final Quality Dossier (FQD) Procedure.
 
-**Status:** The companion Excel workbook and fillable PDF forms A, D.1 and G are available. The first formal release, `FQD-v1.0`, is planned for 06-Oct-2026 and has not yet been published.
+**Status:** The companion Excel workbook and fillable PDF forms A, D.1 and G are available. The first formal release, `FQD-v1.0`, is planned for 13-Oct-2026 and has not yet been published.
 
 ## Available files
 
