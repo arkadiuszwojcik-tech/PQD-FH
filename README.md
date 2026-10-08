@@ -32,7 +32,7 @@ The currently available repository content supports **PQD-FH 01 — FQD**.
 
 The companion Excel workbook and three separate fillable PDF forms are available at **Template Rev. 1.00**, corresponding to **Procedure Rev. 1.00**.
 
-The first formal release is planned under the tag **`FQD-v1.0`** and has not yet been published. The main FQD procedure document is not currently included in the repository.
+The first formal release is planned for **13-Oct-2026** under the tag **`FQD-v1.0`** and has not yet been published. The main FQD procedure document is not currently included in the repository.
 
 The presence of Rev. 1.00 template files on `main` does not by itself constitute a formal FQD release.
 
