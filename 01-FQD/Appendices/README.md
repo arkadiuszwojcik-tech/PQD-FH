@@ -21,6 +21,6 @@ Appendices A, D.1 and G are also available as separate PDF forms with interactiv
 
 - Template Rev. 1.00 corresponds to Procedure Rev. 1.00.
 - The planned release tag is `FQD-v1.0`. Once published, use that release to obtain the corresponding revision-controlled set of files. Each release will list its included files and revisions.
-- Files on `main` may change between releases. A [fixed snapshot of the Rev. 1.00 template files](https://github.com/arkadiuszwojcik-tech/PQD-FH/tree/ab764c1d03929abb3c4e38e78b73ac03bcc35565/01-FQD/Appendices) is available at commit `ab764c1d03929abb3c4e38e78b73ac03bcc35565`. This snapshot identifies the existing template files; it is not a published FQD release.
+- Files on `main` may change between releases. A [fixed snapshot of the Rev. 1.00 template files](https://github.com/arkadiuszwojcik-tech/PQD-FH/tree/4ea9a79fb995bd71d994bc0526b55458cc757126/01-FQD/Appendices) is available at commit `4ea9a79fb995bd71d994bc0526b55458cc757126`. This snapshot identifies the existing template files; it is not a published FQD release.
 
 [Repository home](https://github.com/arkadiuszwojcik-tech/PQD-FH) · [Releases](https://github.com/arkadiuszwojcik-tech/PQD-FH/releases)
