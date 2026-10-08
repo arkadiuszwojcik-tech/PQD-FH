@@ -59,9 +59,9 @@ For the detailed file inventory, see the [FQD Appendices README](01-FQD/Appendic
 - **Release tags** identify a coordinated set of files. The planned first FQD release tag is `FQD-v1.0`.
 - **Release notes** will identify the files and revisions included in each published release. Check compatibility before combining a procedure with its templates.
 - **The `main` branch may change between releases.** The download links above point to the files currently on `main`.
-- **A fixed commit snapshot preserves the referenced revision.** The existing Rev. 1.00 template files are available at commit `ab764c1d03929abb3c4e38e78b73ac03bcc35565`. This snapshot is not a published FQD release.
+- **A fixed commit snapshot preserves the referenced revision.** The existing Rev. 1.00 template files are available at commit `4ea9a79fb995bd71d994bc0526b55458cc757126`. This snapshot is not a published FQD release.
 
-[Browse the fixed Rev. 1.00 template snapshot](https://github.com/arkadiuszwojcik-tech/PQD-FH/tree/ab764c1d03929abb3c4e38e78b73ac03bcc35565/01-FQD/Appendices)
+[Browse the fixed Rev. 1.00 template snapshot](https://github.com/arkadiuszwojcik-tech/PQD-FH/tree/4ea9a79fb995bd71d994bc0526b55458cc757126/01-FQD/Appendices)
 
 When adopting the templates for a project, record the applicable procedure revision, template revision and release tag or commit reference to maintain traceability.
 
