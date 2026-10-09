@@ -2,6 +2,16 @@
 
 **Progressive Quality Documentation & Final Handover Framework**
 
+## Start here — FQD procedure
+
+**[Read the main FQD procedure — PDF, Rev. 1.00](01-FQD/PQD-FH_01_Universal_FQD_Procedure_rev1.00.pdf)** · [Download PDF](https://github.com/arkadiuszwojcik-tech/PQD-FH/raw/refs/heads/main/01-FQD/PQD-FH_01_Universal_FQD_Procedure_rev1.00.pdf)
+
+[Fillable PDF forms](01-FQD/Fillable-PDF/) · [Editable sources — DOCX and ODT](01-FQD/Source-Files/) · [Excel templates](01-FQD/Appendices/)
+
+Available for pre-release review. Formal release planned for **13-Oct-2026**.
+
+## About the framework
+
 PQD-FH provides a structured approach to compiling, verifying and handing over project quality documentation progressively throughout project execution.
 
 The framework connects quality records, red-line mark-ups, system completion and commissioning records with final handover. Its purpose is to support traceability, make documentation readiness visible and reduce the accumulation of unresolved documentation issues at the end of a project.
@@ -21,12 +31,11 @@ The currently available repository content supports **PQD-FH 01 — FQD**.
 
 | Location | Contents |
 | --- | --- |
-| [`README.md`](README.md) | Framework overview, module status, downloads and versioning guidance |
-| [`01-FQD/`](01-FQD/) | Main FQD procedure in PDF, DOCX and ODT, plus companion templates |
-| [`01-FQD/Appendices/`](01-FQD/Appendices/) | Companion Excel workbook and appendix documentation |
-| [`01-FQD/Appendices/README.md`](01-FQD/Appendices/README.md) | File inventory, revision compatibility and fixed snapshot reference |
-| [`01-FQD/Appendices/Fillable-PDF/`](01-FQD/Appendices/Fillable-PDF/) | Separate fillable PDF forms for Appendices A, D.1 and G |
-| [`01-FQD/Appendices/Fillable-PDF/README.md`](01-FQD/Appendices/Fillable-PDF/README.md) | Information accompanying the fillable PDF forms |
+| [Main FQD procedure — PDF](01-FQD/PQD-FH_01_Universal_FQD_Procedure_rev1.00.pdf) | Reference document for reading and printing |
+| [`01-FQD/Fillable-PDF/`](01-FQD/Fillable-PDF/) | Interactive PDF forms for Appendices A, D.1 and G |
+| [`01-FQD/Source-Files/`](01-FQD/Source-Files/) | Editable procedure sources in DOCX and ODT |
+| [`01-FQD/Appendices/`](01-FQD/Appendices/) | Companion Excel workbook, appendix inventory and revision compatibility |
+| [`01-FQD/README.md`](01-FQD/README.md) | FQD module overview and download links |
 
 ## PQD-FH 01 — FQD: current status
 
@@ -41,18 +50,18 @@ The presence of Rev. 1.00 procedure and template files on `main` does not by its
 | Resource | Contents | Revision | Download |
 | --- | --- | --- | --- |
 | **FQD procedure — PDF** | Reference document for reading and printing | 1.00 | [Download PDF](https://github.com/arkadiuszwojcik-tech/PQD-FH/raw/refs/heads/main/01-FQD/PQD-FH_01_Universal_FQD_Procedure_rev1.00.pdf) |
-| **FQD procedure — DOCX** | Editable procedure source | 1.00 | [Download DOCX](https://github.com/arkadiuszwojcik-tech/PQD-FH/raw/refs/heads/main/01-FQD/PQD-FH_01_Universal_FQD_Procedure_rev1.00.docx) |
-| **FQD procedure — ODT** | Editable procedure source | 1.00 | [Download ODT](https://github.com/arkadiuszwojcik-tech/PQD-FH/raw/refs/heads/main/01-FQD/PQD-FH_01_Universal_FQD_Procedure_rev1.00.odt) |
+| **Appendix A** | Project-specific Requirements | 1.00 | [Download fillable PDF](https://github.com/arkadiuszwojcik-tech/PQD-FH/raw/refs/heads/main/01-FQD/Fillable-PDF/PQD-FH_01_Appendix_A_Project_Requirements_Fillable_Rev1.00.pdf) |
+| **Appendix D.1** | Universal FQD Package Index | 1.00 | [Download fillable PDF](https://github.com/arkadiuszwojcik-tech/PQD-FH/raw/refs/heads/main/01-FQD/Fillable-PDF/PQD-FH_01_Appendix_D1_Package_Index_Fillable_Rev1.00.pdf) |
+| **Appendix G** | FQD Package Readiness Checklist | 1.00 | [Download fillable PDF](https://github.com/arkadiuszwojcik-tech/PQD-FH/raw/refs/heads/main/01-FQD/Fillable-PDF/PQD-FH_01_Appendix_G_Readiness_Checklist_Fillable_Rev1.00.pdf) |
 | **Companion workbook** | Editable templates for Appendices A–I | 1.00 | [Download XLSX](https://github.com/arkadiuszwojcik-tech/PQD-FH/raw/refs/heads/main/01-FQD/Appendices/PQD-FH_01_Universal_FQD_Templates.xlsx) |
-| **Appendix A** | Project-specific Requirements | 1.00 | [Download fillable PDF](https://github.com/arkadiuszwojcik-tech/PQD-FH/raw/refs/heads/main/01-FQD/Appendices/Fillable-PDF/PQD-FH_01_Appendix_A_Project_Requirements_Fillable_Rev1.00.pdf) |
-| **Appendix D.1** | Universal FQD Package Index | 1.00 | [Download fillable PDF](https://github.com/arkadiuszwojcik-tech/PQD-FH/raw/refs/heads/main/01-FQD/Appendices/Fillable-PDF/PQD-FH_01_Appendix_D1_Package_Index_Fillable_Rev1.00.pdf) |
-| **Appendix G** | FQD Package Readiness Checklist | 1.00 | [Download fillable PDF](https://github.com/arkadiuszwojcik-tech/PQD-FH/raw/refs/heads/main/01-FQD/Appendices/Fillable-PDF/PQD-FH_01_Appendix_G_Readiness_Checklist_Fillable_Rev1.00.pdf) |
+| **FQD procedure — DOCX** | Editable procedure source | 1.00 | [Download DOCX](https://github.com/arkadiuszwojcik-tech/PQD-FH/raw/refs/heads/main/01-FQD/Source-Files/PQD-FH_01_Universal_FQD_Procedure_rev1.00.docx) |
+| **FQD procedure — ODT** | Editable procedure source | 1.00 | [Download ODT](https://github.com/arkadiuszwojcik-tech/PQD-FH/raw/refs/heads/main/01-FQD/Source-Files/PQD-FH_01_Universal_FQD_Procedure_rev1.00.odt) |
 
 The workbook filename is `PQD-FH_01_Universal_FQD_Templates.xlsx`.
 
 Appendices A, D.1 and G are also provided as separate PDF forms with interactive fields for electronic completion. These forms complement the companion workbook.
 
-Download the PDFs and open them in a reader that supports interactive form fields. Save completed templates and forms as separate controlled project records.
+Download the fillable PDF forms and open them in a reader that supports interactive form fields. Save completed templates and forms as separate controlled project records.
 
 For the detailed file inventory, see the [FQD Appendices README](01-FQD/Appendices/README.md).
 
