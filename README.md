@@ -10,7 +10,7 @@ The framework connects quality records, red-line mark-ups, system completion and
 
 | Module | Scope | Repository status |
 | --- | --- | --- |
-| **PQD-FH 01 — Final Quality Dossier (FQD)** | Package planning, progressive compilation, traceability, readiness review and submission of quality dossiers | Companion workbook and fillable PDF forms available; first formal release pending |
+| **PQD-FH 01 — Final Quality Dossier (FQD)** | Package planning, progressive compilation, traceability, readiness review and submission of quality dossiers | Procedure in PDF, DOCX and ODT, companion workbook and fillable PDF forms available; first formal release pending |
 | **PQD-FH 02 — Red Line Mark-Up (RLM)** | Recording and controlling changes to technical documentation | Planned framework module; files not yet available here |
 | **PQD-FH 03 — System Completion & Commissioning Records** | Documentation supporting system completion and commissioning | Planned framework module; files not yet available here |
 | **PQD-FH 04 — Final Handover** | Consolidation and transfer of final project documentation | Planned framework module; files not yet available here |
@@ -22,7 +22,7 @@ The currently available repository content supports **PQD-FH 01 — FQD**.
 | Location | Contents |
 | --- | --- |
 | [`README.md`](README.md) | Framework overview, module status, downloads and versioning guidance |
-| [`01-FQD/`](01-FQD/) | Available content supporting the FQD module |
+| [`01-FQD/`](01-FQD/) | Main FQD procedure in PDF, DOCX and ODT, plus companion templates |
 | [`01-FQD/Appendices/`](01-FQD/Appendices/) | Companion Excel workbook and appendix documentation |
 | [`01-FQD/Appendices/README.md`](01-FQD/Appendices/README.md) | File inventory, revision compatibility and fixed snapshot reference |
 | [`01-FQD/Appendices/Fillable-PDF/`](01-FQD/Appendices/Fillable-PDF/) | Separate fillable PDF forms for Appendices A, D.1 and G |
@@ -32,14 +32,17 @@ The currently available repository content supports **PQD-FH 01 — FQD**.
 
 The companion Excel workbook and three separate fillable PDF forms are available at **Template Rev. 1.00**, corresponding to **Procedure Rev. 1.00**.
 
-The first formal release is planned for **13-Oct-2026** under the tag **`FQD-v1.0`** and has not yet been published. The main FQD procedure document is not currently included in the repository.
+The first formal release is planned for **13-Oct-2026** under the tag **`FQD-v1.0`** and has not yet been published. Procedure Rev. 1.00 is available below in PDF, DOCX and ODT for pre-release review.
 
-The presence of Rev. 1.00 template files on `main` does not by itself constitute a formal FQD release.
+The presence of Rev. 1.00 procedure and template files on `main` does not by itself constitute a formal FQD release.
 
 ## Available files and downloads
 
-| Resource | Contents | Template revision | Download |
+| Resource | Contents | Revision | Download |
 | --- | --- | --- | --- |
+| **FQD procedure — PDF** | Reference document for reading and printing | 1.00 | [Download PDF](https://github.com/arkadiuszwojcik-tech/PQD-FH/raw/refs/heads/main/01-FQD/PQD-FH_01_Universal_FQD_Procedure_rev1.00.pdf) |
+| **FQD procedure — DOCX** | Editable procedure source | 1.00 | [Download DOCX](https://github.com/arkadiuszwojcik-tech/PQD-FH/raw/refs/heads/main/01-FQD/PQD-FH_01_Universal_FQD_Procedure_rev1.00.docx) |
+| **FQD procedure — ODT** | Editable procedure source | 1.00 | [Download ODT](https://github.com/arkadiuszwojcik-tech/PQD-FH/raw/refs/heads/main/01-FQD/PQD-FH_01_Universal_FQD_Procedure_rev1.00.odt) |
 | **Companion workbook** | Editable templates for Appendices A–I | 1.00 | [Download XLSX](https://github.com/arkadiuszwojcik-tech/PQD-FH/raw/refs/heads/main/01-FQD/Appendices/PQD-FH_01_Universal_FQD_Templates.xlsx) |
 | **Appendix A** | Project-specific Requirements | 1.00 | [Download fillable PDF](https://github.com/arkadiuszwojcik-tech/PQD-FH/raw/refs/heads/main/01-FQD/Appendices/Fillable-PDF/PQD-FH_01_Appendix_A_Project_Requirements_Fillable_Rev1.00.pdf) |
 | **Appendix D.1** | Universal FQD Package Index | 1.00 | [Download fillable PDF](https://github.com/arkadiuszwojcik-tech/PQD-FH/raw/refs/heads/main/01-FQD/Appendices/Fillable-PDF/PQD-FH_01_Appendix_D1_Package_Index_Fillable_Rev1.00.pdf) |
