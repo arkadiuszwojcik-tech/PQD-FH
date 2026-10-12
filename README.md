@@ -8,24 +8,28 @@
 
 [Fillable PDF forms](01-FQD/Fillable-PDF/) · [Editable sources — DOCX and ODT](01-FQD/Source-Files/) · [Excel templates](01-FQD/Appendices/)
 
-Available for pre-release review. Formal release planned for **13-Oct-2026**.
+**Published — Procedure Rev. 1.00.** Document issue date: **13-Oct-2026**. The procedure, editable sources and companion templates are available below.
 
 ## About the framework
 
 PQD-FH provides a structured approach to compiling, verifying and handing over project quality documentation progressively throughout project execution.
 
-The framework connects quality records, red-line mark-ups, system completion and commissioning records with final handover. Its purpose is to support traceability, make documentation readiness visible and reduce the accumulation of unresolved documentation issues at the end of a project.
+The framework connects inspection and test planning, quality records, red-line mark-ups and as-built control, system completion and commissioning records, final handover, and lifecycle data management for operational analytics. Its purpose is to support traceability, make documentation readiness visible, reduce the accumulation of unresolved documentation issues at the end of a project, and support subsequent use of controlled information in operation and maintenance.
 
 ## Framework modules
 
 | Module | Scope | Repository status |
 | --- | --- | --- |
-| **PQD-FH 01 — Final Quality Dossier (FQD)** | Package planning, progressive compilation, traceability, readiness review and submission of quality dossiers | Procedure in PDF, DOCX and ODT, companion workbook and fillable PDF forms available; first formal release pending |
-| **PQD-FH 02 — Red Line Mark-Up (RLM)** | Recording and controlling changes to technical documentation | Planned framework module; files not yet available here |
-| **PQD-FH 03 — System Completion & Commissioning Records** | Documentation supporting system completion and commissioning | Planned framework module; files not yet available here |
-| **PQD-FH 04 — Final Handover** | Consolidation and transfer of final project documentation | Planned framework module; files not yet available here |
+| **PQD-FH 01 — Final Quality Dossier (FQD)** | Planning, identification, collection, control, verification, progressive compilation, packaging and acceptance of quality documentation and records | Published — Rev. 1.00; PDF, DOCX, ODT, companion workbook and fillable PDF forms available |
+| **PQD-FH 02 — Inspection and Test Planning (ITP/ITPL)** | Development, project-specific adaptation, approval and revision control of inspection and test programmes (ITP) and detailed inspection and test plans (ITPL), including acceptance criteria, responsibilities, intervention points and required records | Planned for progressive development and publication |
+| **PQD-FH 03 — Red Line Mark-Up (RLM) / As-Built Control** | Capture, control, verification and incorporation of field changes into final technical documentation, with traceability between approved changes and the as-built condition | Planned for progressive development and publication |
+| **PQD-FH 04 — System Completion and Commissioning Records** | Control of readiness, completion, inspection, testing and commissioning evidence for system and subsystem completion and progression to subsequent stages | Planned for progressive development and publication |
+| **PQD-FH 05 — Final Handover** | Controlled transfer and documented receipt of accepted documentation, structured information, completion evidence and associated records, including identification of outstanding obligations where applicable | Planned for progressive development and publication |
+| **PQD-FH 06 — Lifecycle Data Management for Operational Analytics** | Progressive collection, validation, structuring, preservation and controlled reuse of lifecycle data and engineering knowledge for operation and maintenance, comparative analysis, reliability assessment and predictive maintenance | Planned for progressive development and publication |
 
-The currently available repository content supports **PQD-FH 01 — FQD**.
+Module numbering defines the presentation order rather than a strictly sequential workflow. Activities within the domains overlap and interact throughout project delivery.
+
+**PQD-FH 01 — FQD is available for standalone application.** Modules 02–06 are planned for progressive development and publication.
 
 ## Repository structure
 
@@ -41,9 +45,9 @@ The currently available repository content supports **PQD-FH 01 — FQD**.
 
 The companion Excel workbook and three separate fillable PDF forms are available at **Template Rev. 1.00**, corresponding to **Procedure Rev. 1.00**.
 
-The first formal release is planned for **13-Oct-2026** under the tag **`FQD-v1.0`** and has not yet been published. Procedure Rev. 1.00 is available below in PDF, DOCX and ODT for pre-release review.
+The procedure is **Published**, at **Rev. 1.00**, with document issue date **13-Oct-2026**, as stated in the procedure. It is available in PDF, DOCX and ODT.
 
-The presence of Rev. 1.00 procedure and template files on `main` does not by itself constitute a formal FQD release.
+The separate GitHub Release entry **`FQD-v1.0`** remains in preparation and has not yet been published. Current downloads are available from `main`; the [fixed Rev. 1.00 snapshot](https://github.com/arkadiuszwojcik-tech/PQD-FH/tree/272734fd9c8c564b69cc0b76663b2512972f893c) preserves the current procedure and companion files.
 
 ## Available files and downloads
 
@@ -68,17 +72,17 @@ For the detailed file inventory, see the [FQD Appendices README](01-FQD/Appendic
 ## Versioning and revision compatibility
 
 - **Document revisions** identify the revision of each procedure, workbook or form. The currently available templates are Rev. 1.00 and correspond to Procedure Rev. 1.00.
-- **Release tags** identify a coordinated set of files. The planned first FQD release tag is `FQD-v1.0`.
+- **Release tags** identify a coordinated set of files. `FQD-v1.0` is the planned tag for the GitHub Release currently in preparation.
 - **Release notes** will identify the files and revisions included in each published release. Check compatibility before combining a procedure with its templates.
 - **The `main` branch may change between releases.** The download links above point to the files currently on `main`.
-- **A fixed commit snapshot preserves the referenced revision.** The existing Rev. 1.00 template files are available at commit `4ea9a79fb995bd71d994bc0526b55458cc757126`. This snapshot is not a published FQD release.
+- **A fixed commit snapshot preserves the referenced revision.** The current Rev. 1.00 procedure in PDF, DOCX and ODT, companion workbook and fillable forms are available at commit `272734fd9c8c564b69cc0b76663b2512972f893c`.
 
-[Browse the fixed Rev. 1.00 template snapshot](https://github.com/arkadiuszwojcik-tech/PQD-FH/tree/4ea9a79fb995bd71d994bc0526b55458cc757126/01-FQD/Appendices)
+[Browse the fixed Rev. 1.00 document and template snapshot](https://github.com/arkadiuszwojcik-tech/PQD-FH/tree/272734fd9c8c564b69cc0b76663b2512972f893c)
 
 When adopting the templates for a project, record the applicable procedure revision, template revision and release tag or commit reference to maintain traceability.
 
 ## Releases
 
-Formal releases and their accompanying notes will be available on the [Releases page](https://github.com/arkadiuszwojcik-tech/PQD-FH/releases).
+The procedure and companion files are publicly available through the download links above. The GitHub Release entry `FQD-v1.0` is still a draft and is not yet publicly published.
 
-Once `FQD-v1.0` is published, use that release to obtain the corresponding revision-controlled set of files.
+Published GitHub Releases and their notes will appear on the [Releases page](https://github.com/arkadiuszwojcik-tech/PQD-FH/releases). Until `FQD-v1.0` is published, use the current downloads or the fixed commit snapshot above.

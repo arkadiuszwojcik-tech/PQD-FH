@@ -12,7 +12,7 @@ The PDF is the reference document for reading and printing. The companion files 
 | [Source-Files](Source-Files/) | Editable procedure sources in DOCX and ODT |
 | [Appendices](Appendices/) | Companion Excel workbook for Appendices A–I, file inventory and revision compatibility |
 
-**Status:** Procedure Rev. 1.00 and the corresponding templates are available for pre-release review. The first formal release, `FQD-v1.0`, is planned for **13-Oct-2026** and has not yet been published.
+**Status:** Published — Procedure Rev. 1.00, document issue date **13-Oct-2026**. The PDF, editable DOCX and ODT sources, companion workbook and fillable PDF forms are available. See the [GitHub Release status](../README.md#releases) for the separate `FQD-v1.0` release entry.
 
 Adapt editable templates and forms to applicable project requirements before use. Control completed records under the project's document-control arrangements.
 

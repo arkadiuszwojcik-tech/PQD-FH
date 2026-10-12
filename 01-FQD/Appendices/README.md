@@ -4,7 +4,7 @@ Editable appendices supporting PQD-FH 01: Final Quality Dossier (FQD) Procedure.
 
 [Main procedure — PDF](../PQD-FH_01_Universal_FQD_Procedure_rev1.00.pdf) · [Fillable PDF forms](../Fillable-PDF/) · [Editable procedure sources](../Source-Files/)
 
-**Status:** The companion Excel workbook and fillable PDF forms A, D.1 and G are available. The first formal release, `FQD-v1.0`, is planned for 13-Oct-2026 and has not yet been published.
+**Status:** The companion Excel workbook and fillable PDF forms A, D.1 and G are available at Template Rev. 1.00, supporting the published Procedure Rev. 1.00 with document issue date **13-Oct-2026**. See the [GitHub Release status](../../README.md#releases).
 
 ## Available files
 
@@ -22,7 +22,7 @@ Appendices A, D.1 and G are also available as separate PDF forms with interactiv
 ## Downloads and revision compatibility
 
 - Template Rev. 1.00 corresponds to Procedure Rev. 1.00.
-- The planned release tag is `FQD-v1.0`. Once published, use that release to obtain the corresponding revision-controlled set of files. Each release will list its included files and revisions.
-- Files on `main` may change between releases. A [fixed snapshot of the Rev. 1.00 template files](https://github.com/arkadiuszwojcik-tech/PQD-FH/tree/4ea9a79fb995bd71d994bc0526b55458cc757126/01-FQD/Appendices) is available at commit `4ea9a79fb995bd71d994bc0526b55458cc757126`. This snapshot identifies the existing template files; it is not a published FQD release.
+- The GitHub Release entry `FQD-v1.0` remains in preparation. Once published, its release notes will identify the included files and revisions.
+- Files on `main` may change between releases. A [fixed snapshot of the Rev. 1.00 procedure and companion files](https://github.com/arkadiuszwojcik-tech/PQD-FH/tree/272734fd9c8c564b69cc0b76663b2512972f893c) is available at commit `272734fd9c8c564b69cc0b76663b2512972f893c`.
 
 [Repository home](https://github.com/arkadiuszwojcik-tech/PQD-FH) · [Releases](https://github.com/arkadiuszwojcik-tech/PQD-FH/releases)
