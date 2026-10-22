@@ -2,6 +2,8 @@
 
 **Progressive Quality Documentation & Final Handover Framework**
 
+© 2026 Arkadiusz Wójcik · [CC BY-SA 4.0](LICENSE) · [Licensing guide / Zasady korzystania (EN / PL)](LICENSING.md)
+
 ## Start here — FQD procedure
 
 **[Read the main FQD procedure — PDF, Rev. 1.00](01-FQD/PQD-FH_01_Universal_FQD_Procedure_rev1.00.pdf)** · [Download PDF](https://github.com/arkadiuszwojcik-tech/PQD-FH/raw/refs/heads/main/01-FQD/PQD-FH_01_Universal_FQD_Procedure_rev1.00.pdf)
@@ -86,3 +88,13 @@ When adopting the templates for a project, record the applicable procedure revis
 The procedure and companion files are publicly available through the download links above. The GitHub Release entry `FQD-v1.0` is still a draft and is not yet publicly published.
 
 Published GitHub Releases and their notes will appear on the [Releases page](https://github.com/arkadiuszwojcik-tech/PQD-FH/releases). Until `FQD-v1.0` is published, use the current downloads or the fixed commit snapshot above.
+
+## License and attribution
+
+**© 2026 Arkadiusz Wójcik.** The PQD-FH framework is licensed under **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**, except where a separate notice identifies third-party material or different terms.
+
+The license covers the framework documentation published in this repository, including procedures, appendices, forms, templates, workbooks, diagrams and editable source documents across its modules. It is the default license for further framework modules when published here.
+
+You may use, copy, redistribute, translate and adapt these materials **without a license fee, including for commercial projects**, subject to the license conditions. When sharing, retain appropriate attribution and license notices, link to the license, and identify modifications. Shared adaptations must comply with ShareAlike; do not impose additional restrictions on the licensed material.
+
+See the [full license text](LICENSE) and the [detailed licensing guide with attribution examples (EN / PL)](LICENSING.md). Official Creative Commons resources: [English summary](https://creativecommons.org/licenses/by-sa/4.0/deed.en), [polskie podsumowanie](https://creativecommons.org/licenses/by-sa/4.0/deed.pl), and [legal code](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en).
