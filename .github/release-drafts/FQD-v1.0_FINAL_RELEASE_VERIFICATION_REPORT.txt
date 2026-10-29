@@ -1,0 +1,72 @@
+FINAL RELEASE VERIFICATION REPORT — FQD-v1.0
+
+Release: PQD-FH 01 — Final Quality Dossier (FQD) — Rev. 1.00
+Release ID: 403552381
+Public release URL: https://github.com/arkadiuszwojcik-tech/PQD-FH/releases/tag/FQD-v1.0
+Tag: FQD-v1.0
+Controlled target: release/FQD-v1.0
+Controlled source commit: 272734fd9c8c564b69cc0b76663b2512972f893c
+Source URL: https://github.com/arkadiuszwojcik-tech/PQD-FH/tree/272734fd9c8c564b69cc0b76663b2512972f893c
+Document issue date: 13 October 2026
+Author: Arkadiusz Wójcik
+License: CC BY-SA 4.0
+Published: 29 October 2026, 20:18:15 Europe/Warsaw (19:18:15 UTC)
+Status: Published; draft=false; prerelease=false
+
+VERIFICATION BASIS
+Public-access and download verification completed: 29 October 2026, 20:19:29 Europe/Warsaw (19:19:29 UTC).
+This report consolidates the completed verification; it does not represent a new network check.
+The public release page and release API returned HTTP 200 without authentication.
+All seven published attachments were downloaded without authentication. SHA-256 hashes were calculated from those downloaded bytes and compared with the authoritative manifest.
+Manifest: https://raw.githubusercontent.com/arkadiuszwojcik-tech/PQD-FH/main/.github/release-drafts/FQD-v1.0_ASSET_MANIFEST.md
+The published tag was verified to resolve to the controlled source commit above.
+Approved release notes and all seven attachment identities, sizes and hashes were unchanged after publication. Repository procedure and source files were unchanged.
+
+ATTACHMENT RESULTS
+
+1. PQD-FH_01_Universal_FQD_Procedure_rev1.00.pdf
+   Bytes: 727412
+   SHA-256: 7c642cbe3fc86b53bc73d1946ee015d1bd89bff800f71786697987c076bbbfe1
+   Result: PASS — public HTTP 200; size and SHA-256 match manifest
+   Download: https://github.com/arkadiuszwojcik-tech/PQD-FH/releases/download/FQD-v1.0/PQD-FH_01_Universal_FQD_Procedure_rev1.00.pdf
+
+2. PQD-FH_01_Universal_FQD_Procedure_rev1.00.docx
+   Bytes: 114496
+   SHA-256: 3a1cec3ac8c0378ee7a064d0194a18551245e022fdbc59ee54a1913bffb2148c
+   Result: PASS — public HTTP 200; size and SHA-256 match manifest
+   Download: https://github.com/arkadiuszwojcik-tech/PQD-FH/releases/download/FQD-v1.0/PQD-FH_01_Universal_FQD_Procedure_rev1.00.docx
+
+3. PQD-FH_01_Universal_FQD_Procedure_rev1.00.odt
+   Bytes: 77983
+   SHA-256: f618b338fab3995f5bf423ee06139feb0aa5e981ff5a12ee8d011332ef664824
+   Result: PASS — public HTTP 200; size and SHA-256 match manifest
+   Download: https://github.com/arkadiuszwojcik-tech/PQD-FH/releases/download/FQD-v1.0/PQD-FH_01_Universal_FQD_Procedure_rev1.00.odt
+
+4. PQD-FH_01_Universal_FQD_Templates.xlsx
+   Bytes: 124791
+   SHA-256: 73d6c0754586aced6a501ad4adec30101ba250b7a3f477814846179bb6f3e10d
+   Result: PASS — public HTTP 200; size and SHA-256 match manifest
+   Download: https://github.com/arkadiuszwojcik-tech/PQD-FH/releases/download/FQD-v1.0/PQD-FH_01_Universal_FQD_Templates.xlsx
+
+5. PQD-FH_01_Appendix_A_Project_Requirements_Fillable_Rev1.00.pdf
+   Bytes: 258772
+   SHA-256: dc5d50546dc7dde48b79710a68d5da5e6317d5298701b6ea05ef88aeb3bd988f
+   Result: PASS — public HTTP 200; size and SHA-256 match manifest
+   Download: https://github.com/arkadiuszwojcik-tech/PQD-FH/releases/download/FQD-v1.0/PQD-FH_01_Appendix_A_Project_Requirements_Fillable_Rev1.00.pdf
+
+6. PQD-FH_01_Appendix_D1_Package_Index_Fillable_Rev1.00.pdf
+   Bytes: 212440
+   SHA-256: f035f59163cfb8726f429c69f9e12a2d9f826438395331cdf58b443eab79c558
+   Result: PASS — public HTTP 200; size and SHA-256 match manifest
+   Download: https://github.com/arkadiuszwojcik-tech/PQD-FH/releases/download/FQD-v1.0/PQD-FH_01_Appendix_D1_Package_Index_Fillable_Rev1.00.pdf
+
+7. PQD-FH_01_Appendix_G_Readiness_Checklist_Fillable_Rev1.00.pdf
+   Bytes: 336924
+   SHA-256: c0c03054ac7b931aa92a004d6e493007fa233313dcc834a2eb075c3689d8cf90
+   Result: PASS — public HTTP 200; size and SHA-256 match manifest
+   Download: https://github.com/arkadiuszwojcik-tech/PQD-FH/releases/download/FQD-v1.0/PQD-FH_01_Appendix_G_Readiness_Checklist_Fillable_Rev1.00.pdf
+
+FINAL ASSESSMENT: PASS
+The published FQD-v1.0 release and all seven attachments are publicly accessible. All seven downloaded files match the manifest byte-for-byte by size and SHA-256 verification. No access failures, hash mismatches, duplicate attachments or unresolved verification issues were found.
+
+Supporting evidence: public-release-verification.json; release-403552381-published.json.
