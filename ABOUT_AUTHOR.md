@@ -21,7 +21,7 @@ He is also developing **UnitedQMS**, a separate documentation-focused quality ma
 ## Official links
 
 - **Primary project website:** [UnitedQ](https://unitedq.tech)
-- **Professional profile:** [LinkedIn](https://www.linkedin.com/in/arkadiuszwojcik-w%C3%B3jcik-5901b4400/)
+- **Professional profile:** [LinkedIn](https://www.linkedin.com/in/arkadiusz-w%C3%B3jcik-5901b4400/)
 - **Engineering services:** [DeltaProTech](https://deltaprotech.eu)
 - **Public framework repository:** [PQD-FH](https://github.com/arkadiuszwojcik-tech/PQD-FH)
 
