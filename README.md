@@ -16,7 +16,7 @@
 
 **Created by Arkadiusz Wójcik** — Electrical & Automation Engineer · E&I QA/QS Manager · Commissioning
 
-**Official project website:** [UnitedQ — unitedq.tech](https://unitedq.tech) · **Professional profile:** [LinkedIn](https://www.linkedin.com/in/arkadiusz-w%C3%B3jcik-5901b4400/) · **Engineering services:** [DeltaProTech](https://deltaprotech.eu)
+**Official project website:** [UnitedQ — unitedq.tech](https://unitedq.tech) · **Professional profile:** [LinkedIn](https://www.linkedin.com/in/arkadiuszwojcik-w%C3%B3jcik-5901b4400/) · **Engineering services:** [DeltaProTech](https://deltaprotech.eu)
 
 PQD-FH is a public documentation framework. The related **UnitedQMS** quality-management software initiative is under development and is a separate product, not included in this repository's released framework documents.
 
@@ -98,6 +98,10 @@ When adopting the templates for a project, record the applicable procedure revis
 The procedure and companion files are publicly available through the download links above. The GitHub Release entry `FQD-v1.0` is still a draft and is not yet publicly published.
 
 Published GitHub Releases and their notes will appear on the [Releases page](https://github.com/arkadiuszwojcik-tech/PQD-FH/releases). Until `FQD-v1.0` is published, use the current downloads or the fixed commit snapshot above.
+
+## Feedback and contributions
+
+Technical corrections and improvement proposals are welcome via GitHub Issues. Please see [Contributing to PQD-FH](CONTRIBUTING.md) for revision-control, source-evidence and confidentiality guidelines. A proposal does not change an issued document until the relevant revision is reviewed and formally published.
 
 ## License and attribution
 
