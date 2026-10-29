@@ -1,5 +1,7 @@
 # About the author — Arkadiusz Wójcik
 
+<img src="assets/author-photo.webp" alt="Portrait of Arkadiusz Wójcik" width="200" align="right">
+
 **Electrical & Automation Engineer | E&I QA/QS Manager | Commissioning**
 
 Arkadiusz Wójcik works in industrial electrical engineering, automation, quality assurance and commissioning. His engineering interests include PLC systems, electrical and instrumentation inspection, test-record verification, documentation traceability and lifecycle information.
