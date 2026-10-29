@@ -18,7 +18,7 @@
 
 **Created by Arkadiusz Wójcik** — Electrical & Automation Engineer · E&I QA/QS Manager · Commissioning
 
-**Official project website:** [UnitedQ — unitedq.tech](https://unitedq.tech) · **Professional profile:** [LinkedIn](https://www.linkedin.com/in/arkadiuszwojcik-w%C3%B3jcik-5901b4400/) · **Engineering services:** [DeltaProTech](https://deltaprotech.eu)
+**Official project website:** [UnitedQ — unitedq.tech](https://unitedq.tech) · **Professional profile:** [LinkedIn](https://www.linkedin.com/in/arkadiusz-w%C3%B3jcik-5901b4400/) · **Engineering services:** [DeltaProTech](https://deltaprotech.eu)
 
 PQD-FH is a public documentation framework. The related **UnitedQMS** quality-management software initiative is under development and is a separate product, not included in this repository's released framework documents.
 
