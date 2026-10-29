@@ -22,7 +22,7 @@ Appendices A, D.1 and G are also available as separate PDF forms with interactiv
 ## Downloads and revision compatibility
 
 - Template Rev. 1.00 corresponds to Procedure Rev. 1.00.
-- The GitHub Release entry `FQD-v1.0` remains in preparation. Once published, its release notes will identify the included files and revisions.
+- The [GitHub Release `FQD-v1.0`](https://github.com/arkadiuszwojcik-tech/PQD-FH/releases/tag/FQD-v1.0) was published on **29-Oct-2026** with seven SHA-256-verified files. It contains Template Rev. 1.00 corresponding to Procedure Rev. 1.00, issued **13-Oct-2026**.
 - Files on `main` may change between releases. A [fixed snapshot of the Rev. 1.00 procedure and companion files](https://github.com/arkadiuszwojcik-tech/PQD-FH/tree/272734fd9c8c564b69cc0b76663b2512972f893c) is available at commit `272734fd9c8c564b69cc0b76663b2512972f893c`.
 
 [Repository home](https://github.com/arkadiuszwojcik-tech/PQD-FH) · [Releases](https://github.com/arkadiuszwojcik-tech/PQD-FH/releases)
