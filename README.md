@@ -61,7 +61,7 @@ The companion Excel workbook and three separate fillable PDF forms are available
 
 The procedure is **Published**, at **Rev. 1.00**, with document issue date **13-Oct-2026**, as stated in the procedure. It is available in PDF, DOCX and ODT.
 
-The separate GitHub Release entry **`FQD-v1.0`** remains in preparation and has not yet been published. Current downloads are available from `main`; the [fixed Rev. 1.00 snapshot](https://github.com/arkadiuszwojcik-tech/PQD-FH/tree/272734fd9c8c564b69cc0b76663b2512972f893c) preserves the current procedure and companion files.
+The [GitHub Release **`FQD-v1.0`**](https://github.com/arkadiuszwojcik-tech/PQD-FH/releases/tag/FQD-v1.0) was published on **29-Oct-2026** and contains seven verified Rev. 1.00 files. The document issue date remains **13-Oct-2026**. The [fixed Rev. 1.00 snapshot](https://github.com/arkadiuszwojcik-tech/PQD-FH/tree/272734fd9c8c564b69cc0b76663b2512972f893c) preserves the published procedure and companion files.
 
 ## Available files and downloads
 
@@ -86,8 +86,8 @@ For the detailed file inventory, see the [FQD Appendices README](01-FQD/Appendic
 ## Versioning and revision compatibility
 
 - **Document revisions** identify the revision of each procedure, workbook or form. The currently available templates are Rev. 1.00 and correspond to Procedure Rev. 1.00.
-- **Release tags** identify a coordinated set of files. `FQD-v1.0` is the planned tag for the GitHub Release currently in preparation.
-- **Release notes** will identify the files and revisions included in each published release. Check compatibility before combining a procedure with its templates.
+- **Release tags** identify a coordinated set of files. The published tag [`FQD-v1.0`](https://github.com/arkadiuszwojcik-tech/PQD-FH/tree/FQD-v1.0) points to the fixed source commit `272734fd9c8c564b69cc0b76663b2512972f893c`.
+- **Release notes** identify the seven files and their revisions in the [published `FQD-v1.0` release](https://github.com/arkadiuszwojcik-tech/PQD-FH/releases/tag/FQD-v1.0). Check compatibility before combining a procedure with its templates.
 - **The `main` branch may change between releases.** The download links above point to the files currently on `main`.
 - **A fixed commit snapshot preserves the referenced revision.** The current Rev. 1.00 procedure in PDF, DOCX and ODT, companion workbook and fillable forms are available at commit `272734fd9c8c564b69cc0b76663b2512972f893c`.
 
@@ -97,9 +97,9 @@ When adopting the templates for a project, record the applicable procedure revis
 
 ## Releases
 
-The procedure and companion files are publicly available through the download links above. The GitHub Release entry `FQD-v1.0` is still a draft and is not yet publicly published.
+The [GitHub Release **`FQD-v1.0`**](https://github.com/arkadiuszwojcik-tech/PQD-FH/releases/tag/FQD-v1.0) was published on **29-Oct-2026** with seven verified files corresponding to **Procedure Rev. 1.00** and **Template Rev. 1.00**. The procedure's document issue date is **13-Oct-2026**; publication of the GitHub Release did not create a new procedure revision.
 
-Published GitHub Releases and their notes will appear on the [Releases page](https://github.com/arkadiuszwojcik-tech/PQD-FH/releases). Until `FQD-v1.0` is published, use the current downloads or the fixed commit snapshot above.
+For the downloadable release package and release notes, see [**FQD-v1.0**](https://github.com/arkadiuszwojcik-tech/PQD-FH/releases/tag/FQD-v1.0). The [fixed Rev. 1.00 source snapshot](https://github.com/arkadiuszwojcik-tech/PQD-FH/tree/272734fd9c8c564b69cc0b76663b2512972f893c) remains available for traceability; the `main` branch may evolve independently.
 
 ## Feedback and contributions
 
