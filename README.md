@@ -12,6 +12,16 @@
 
 **Published — Procedure Rev. 1.00.** Document issue date: **13-Oct-2026**. The procedure, editable sources and companion templates are available below.
 
+## Author and official links
+
+**Created by Arkadiusz Wójcik** — Electrical & Automation Engineer · E&I QA/QS Manager · Commissioning
+
+**Official project website:** [UnitedQ — unitedq.tech](https://unitedq.tech) · **Professional profile:** [LinkedIn](https://www.linkedin.com/in/arkadiusz-w%C3%B3jcik-5901b4400/) · **Engineering services:** [DeltaProTech](https://deltaprotech.eu)
+
+PQD-FH is a public documentation framework. The related **UnitedQMS** quality-management software initiative is under development and is a separate product, not included in this repository's released framework documents.
+
+[About the author](ABOUT_AUTHOR.md) · [Repository changelog](CHANGELOG.md) · [How to cite](CITATION.cff)
+
 ## About the framework
 
 PQD-FH provides a structured approach to compiling, verifying and handing over project quality documentation progressively throughout project execution.
