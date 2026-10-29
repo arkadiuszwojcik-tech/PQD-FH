@@ -14,6 +14,8 @@
 
 ## Author and official links
 
+<img src="assets/author-photo.webp" alt="Arkadiusz Wójcik — Electrical & Automation Engineer" width="165" align="right">
+
 **Created by Arkadiusz Wójcik** — Electrical & Automation Engineer · E&I QA/QS Manager · Commissioning
 
 **Official project website:** [UnitedQ — unitedq.tech](https://unitedq.tech) · **Professional profile:** [LinkedIn](https://www.linkedin.com/in/arkadiuszwojcik-w%C3%B3jcik-5901b4400/) · **Engineering services:** [DeltaProTech](https://deltaprotech.eu)
