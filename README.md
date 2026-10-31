@@ -4,6 +4,10 @@
 
 © 2026 Arkadiusz Wójcik · [CC BY-SA 4.0](LICENSE) · [Licensing guide / Zasady korzystania (EN / PL)](LICENSING.md)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23833468.svg)](https://doi.org/10.5281/zenodo.23833468)
+
+**PQD-FH 01 — Final Quality Dossier (FQD), Rev. 1.00:** [Publication and files on Zenodo](https://zenodo.org/records/23833468) · DOI: [10.5281/zenodo.23833468](https://doi.org/10.5281/zenodo.23833468).
+
 ## Start here — FQD procedure
 
 **[Read the main FQD procedure — PDF, Rev. 1.00](01-FQD/PQD-FH_01_Universal_FQD_Procedure_rev1.00.pdf)** · [Download PDF](https://github.com/arkadiuszwojcik-tech/PQD-FH/raw/refs/heads/main/01-FQD/PQD-FH_01_Universal_FQD_Procedure_rev1.00.pdf)
