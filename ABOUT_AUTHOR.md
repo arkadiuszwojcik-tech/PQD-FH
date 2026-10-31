@@ -20,6 +20,10 @@ He is also developing **UnitedQMS**, a separate documentation-focused quality ma
 
 ## Official links
 
+- **ORCID:** [0009-0004-7958-5490](https://orcid.org/0009-0004-7958-5490)
+- **PQD-FH 01 publication:** [Final Quality Dossier (FQD) Procedure, Rev. 1.00 — Zenodo](https://zenodo.org/records/23833468) · DOI: [10.5281/zenodo.23833468](https://doi.org/10.5281/zenodo.23833468)
+- **Zenodo collection:** [UnitedQ Engineering Publications](https://zenodo.org/communities/unitedq/)
+
 - **Primary project website:** [UnitedQ](https://unitedq.tech)
 - **Professional profile:** [LinkedIn](https://www.linkedin.com/in/arkadiusz-w%C3%B3jcik-5901b4400/)
 - **Engineering services:** [DeltaProTech](https://deltaprotech.eu)
