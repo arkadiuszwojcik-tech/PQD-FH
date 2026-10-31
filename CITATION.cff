@@ -5,6 +5,7 @@ type: generic
 authors:
   - family-names: "Wójcik"
     given-names: "Arkadiusz"
+    orcid: "https://orcid.org/0009-0004-7958-5490"
 license: "CC-BY-SA-4.0"
 url: "https://unitedq.tech"
 repository-code: "https://github.com/arkadiuszwojcik-tech/PQD-FH"
@@ -13,7 +14,9 @@ preferred-citation:
   authors:
     - family-names: "Wójcik"
       given-names: "Arkadiusz"
-  title: "PQD-FH 01 — Universal Final Quality Dossier Procedure, Rev. 1.00"
+      orcid: "https://orcid.org/0009-0004-7958-5490"
+  title: "PQD-FH 01 — FINAL QUALITY DOSSIER (FQD) PROCEDURE"
   year: 2026
   version: "1.00"
-  url: "https://github.com/arkadiuszwojcik-tech/PQD-FH/blob/272734fd9c8c564b69cc0b76663b2512972f893c/01-FQD/PQD-FH_01_Universal_FQD_Procedure_rev1.00.pdf"
+  doi: "10.5281/zenodo.23833468"
+  url: "https://zenodo.org/records/23833468"
